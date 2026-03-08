@@ -38,7 +38,7 @@
 
 ### Пример письма кандидату
 
-![Email Response](docs/screenshots/email-response.png)
+![Email Response](docs/screenshots/214.png)
 
 ## Структура репозитория
 
