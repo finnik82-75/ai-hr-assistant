@@ -34,7 +34,7 @@
 
 ### Результаты в Google Sheets
 
-![Google Sheets](docs/screenshots/google-sheets.png)
+![Google Sheets](docs/screenshots/137.png)
 
 ### Пример письма кандидату
 
