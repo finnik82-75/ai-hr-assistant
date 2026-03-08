@@ -30,7 +30,7 @@
 
 ### Workflow в n8n
 
-![Workflow](docs/screenshots/workflow.png)
+![Workflow](docs/screenshots/179.png)
 
 ### Результаты в Google Sheets
 
